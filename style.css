@@ -1,0 +1,28 @@
+.heading1{
+    text-align: center;
+}
+.links{
+    text-align: center;
+    margin-top: -50px;
+    text-justify: distribute;
+}
+#a{
+    text-decoration: none;
+}
+.navbar{
+    
+}
+.Heading1{
+    margin-left: -800px;
+    margin-top: 50px;
+    font-size: xx-large;
+}
+.links1{
+text-decoration: none;
+
+}
+.image{
+    height: 600px;
+    width: 100%;
+    object-fit: cover;
+}
